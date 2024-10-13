@@ -1,4 +1,4 @@
-
+![logo](https://goglobalways.com/wp-content/uploads/2020/10/Coding-Language-for-Kids.png)
 
 <h1 align="center">Hi 👋, I'm SHIVANI MEHRA</h1>
 <h3 align="center">A passionate about developing websites and machine learning</h3>
