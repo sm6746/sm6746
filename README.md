@@ -10,7 +10,7 @@
 
 Hi there! I'm Shivani — a passionate web developer currently pursuing my B.Tech at SRM KTR. I love crafting intuitive user interfaces, building scalable web apps, and exploring the intersection of design and data through machine learning.
 
-- 📄 **Resume:** [Download Here](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)  
+- 📄 **Resume:** [Download Here](https://drive.google.com/file/d/1HGBWb1IZDbUMpIBvtCJJXmyaanMDR7ty/view?usp=sharing)  
 - 📫 **Reach Me:** shivanimehra22may@gmail.com
 
 ---
