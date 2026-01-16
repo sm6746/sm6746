@@ -1,4 +1,4 @@
-# 👩‍💻 Shivani Mehra — Web Developer & ML Explorer
+# 👩‍💻 Shivani Mehra — DATA ANALYST & ML Explorer
 
 > *"Designing seamless experiences, one pixel and prediction at a time..."*
 
@@ -8,7 +8,7 @@
 
 **`Frontend Developer | Full-Stack Explorer | Machine Learning Enthusiast`**
 
-Hi there! I'm Shivani — a passionate web developer currently pursuing my B.Tech at SRM KTR. I love crafting intuitive user interfaces, building scalable web apps, and exploring the intersection of design and data through machine learning.
+Hi there! I'm Shivani — a passionate DATA AND AIML currently pursuing my B.Tech at SRM KTR. I love crafting intuitive user interfaces, building scalable web apps, and exploring the intersection of design and data through machine learning.
 
 - 📄 **Resume:** [Download Here](https://drive.google.com/file/d/1HGBWb1IZDbUMpIBvtCJJXmyaanMDR7ty/view?usp=sharing)  
 - 📫 **Reach Me:** shivanimehra22may@gmail.com
@@ -20,11 +20,11 @@ Hi there! I'm Shivani — a passionate web developer currently pursuing my B.Tec
 I specialize in building responsive, user-friendly web applications using modern frameworks and tools. Whether it's a sleek portfolio, a dynamic dashboard, or a full-stack product, I bring ideas to life with clean code and thoughtful design.
 
 - 🧩 Frontend: React.js, Redux, Tailwind CSS, Bootstrap  
-- 🛠️ Backend: Node.js, Express.js, MongoDB, MySQL  
+- 🛠️ Backend: Node.js, Express.js, MongoDB, SQL  
 - 🎨 Design: Figma, HTML5, CSS3, JavaScript  
-- 🤖 ML Tools: Python, Pandas, Scikit-learn, TensorFlow, Seaborn  
+- 🤖 ML Tools: Python, Numpy, Pandas, Scikit-learn, TensorFlow, Seaborn  
 - 🔗 APIs & Auth: RESTful APIs, JWT, OAuth  
-- 🧪 Testing & Dev Tools: Postman, ESLint, GitHub
+- 🧪 Testing & Dev Tools: Postman, ESLint, GitHub, tableau , powerbi , excel
 
 ---
 
