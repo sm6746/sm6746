@@ -6,7 +6,7 @@
 
 ## **About Me**
 
-**`Frontend Developer | Full-Stack Explorer | Machine Learning Enthusiast`**
+**`DATA ANALYST | Machine Learning Enthusiast`**
 
 Hi there! I'm Shivani — a passionate DATA AND AIML currently pursuing my B.Tech at SRM KTR. I love crafting intuitive user interfaces, building scalable web apps, and exploring the intersection of design and data through machine learning.
 
