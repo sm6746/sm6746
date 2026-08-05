@@ -17,31 +17,32 @@ Hi there! I'm Shivani — a passionate DATA AND AIML currently pursuing my B.Tec
 
 ### **What I Do**
 
-I specialize in building responsive, user-friendly web applications using modern frameworks and tools. Whether it's a sleek portfolio, a dynamic dashboard, or a full-stack product, I bring ideas to life with clean code and thoughtful design.
+I specialize in turning raw, messy data into clear, actionable insights that drive better decisions. From cleaning large multi-source datasets to building interactive dashboards, I bring an analytical, detail-oriented approach to every project — backed by hands-on experience with 70,000+ record datasets and real business use cases.
 
-- 🧩 Frontend: React.js, Redux, Tailwind CSS, Bootstrap  
-- 🛠️ Backend: Node.js, Express.js, MongoDB, SQL  
-- 🎨 Design: Figma, HTML5, CSS3, JavaScript  
-- 🤖 ML Tools: Python, Numpy, Pandas, Scikit-learn, TensorFlow, Seaborn  
-- 🔗 APIs & Auth: RESTful APIs, JWT, OAuth  
-- 🧪 Testing & Dev Tools: Postman, ESLint, GitHub, tableau , powerbi , excel
+- 📊 Data Analysis: SQL, Python (Pandas, NumPy), Statistical Analysis, EDA, Data Cleaning & Validation
+- 📈 BI & Visualization: Power BI (DAX), Tableau, Looker Studio, Dashboard Design
+- ☁️ Data Engineering: Google BigQuery, Google Cloud Storage, ETL Pipelines (Mage), Dimensional Modelling
+- 🧮 Reporting Tools: Advanced Excel (Pivot Tables, VLOOKUP, Macros)
+- 🤖 ML Foundations: Scikit-learn, TensorFlow, Regression, Classification, Clustering
+- 🌐 Full-Stack (when data needs a home): React.js, Node.js, REST APIs, MongoDB, SQL
 
 ---
 
 ### **Current Mission**
 
-Building a full-stack student dashboard with calendar sync, assignment tracking, and real-time notifications — designed to help students stay organized and focused.
+Building an insurance policy analytics pipeline — analyzing renewal patterns, identifying key churn drivers through statistical testing, and designing a dashboard that turns policyholder data into clear, actionable business recommendations.
 
 ---
 
 ## 💬 **Let's Talk**
 
 I'm always excited to collaborate on:
-- 🚀 Web development projects with real-world impact  
-- 📊 Data-driven applications using ML and analytics  
-- 🎓 Open-source tools for education, climate, and community
-
+- 📊 Data-driven dashboards and reporting tools that solve real business problems
+- 🔍 Exploratory data analysis and statistical storytelling
+- ☁️ Cloud data pipelines that turn raw data into decision-ready insights
+- 🎓 Open-source and community projects using data for education, climate, and social good
 ---
+
 
 > *"In a world full of distractions, build the interface that keeps people focused."* 🌐
 
