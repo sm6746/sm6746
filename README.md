@@ -1,6 +1,6 @@
 ## **About Me**
 
-**`DATA ANALYST | Full-Stack & Backend Enthusiast`**
+**` Full-Stack & Backend Enthusiast`**
 
 Hi there! I'm Shivani — a 2025 B.Tech Computer Science graduate from SRM Institute of Science and Technology (SRM KTR). I love turning raw data into clear insights, and I'm equally at home building backend services — Node.js, Express, REST APIs, MongoDB — when data needs a home to live in.
 
