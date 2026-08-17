@@ -1,20 +1,11 @@
-# 👩‍💻 Shivani Mehra — DATA ANALYST & ML Explorer
-
-> *"Designing seamless experiences, one pixel and prediction at a time..."*
-
----
-
 ## **About Me**
 
-**`DATA ANALYST | Machine Learning Enthusiast`**
+**`DATA ANALYST | Full-Stack & Backend Enthusiast`**
 
-Hi there! I'm Shivani — a passionate DATA AND AIML currently pursuing my B.Tech at SRM KTR. I love crafting intuitive user interfaces, building scalable web apps, and exploring the intersection of design and data through machine learning.
+Hi there! I'm Shivani — a 2025 B.Tech Computer Science graduate from SRM Institute of Science and Technology (SRM KTR). I love turning raw data into clear insights, and I'm equally at home building backend services — Node.js, Express, REST APIs, MongoDB — when data needs a home to live in.
 
-- 📄 **Resume:** [Download Here](https://drive.google.com/file/d/1HGBWb1IZDbUMpIBvtCJJXmyaanMDR7ty/view?usp=sharing)  
+- 📄 **Resume:** [Download Here](https://drive.google.com/file/d/1HGBWb1IZDbUMpIBvtCJJXmyaanMDR7ty/view?usp=sharing)
 - 📫 **Reach Me:** shivanimehra22may@gmail.com
-
----
-
 ### **What I Do**
 
 I specialize in turning raw, messy data into clear, actionable insights that drive better decisions. From cleaning large multi-source datasets to building interactive dashboards, I bring an analytical, detail-oriented approach to every project — backed by hands-on experience with 70,000+ record datasets and real business use cases.
@@ -34,13 +25,13 @@ Building an insurance policy analytics pipeline — analyzing renewal patterns, 
 
 ---
 
-## 💬 **Let's Talk**
-
+**💬 Let's Talk**
 I'm always excited to collaborate on:
+- 🌐 Backend services and REST APIs that turn raw data into something usable
 - 📊 Data-driven dashboards and reporting tools that solve real business problems
 - 🔍 Exploratory data analysis and statistical storytelling
-- ☁️ Cloud data pipelines that turn raw data into decision-ready insights
 - 🎓 Open-source and community projects using data for education, climate, and social good
+
 ---
 
 
